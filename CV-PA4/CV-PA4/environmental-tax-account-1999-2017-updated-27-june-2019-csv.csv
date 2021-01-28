@@ -1,0 +1,856 @@
+﻿year,Industry_code,Industry_desc,Environmental_base,National_accounts_var,units,magnitude,source,data_value,flag
+1999,HDD,Households,,,Dollars,Millions,Environmental Accounts,119,
+2000,HDD,Households,,,Dollars,Millions,Environmental Accounts,117,
+2001,HDD,Households,,,Dollars,Millions,Environmental Accounts,121,
+2002,HDD,Households,,,Dollars,Millions,Environmental Accounts,357,
+2003,HDD,Households,,,Dollars,Millions,Environmental Accounts,399,
+2004,HDD,Households,,,Dollars,Millions,Environmental Accounts,451,
+2005,HDD,Households,,,Dollars,Millions,Environmental Accounts,462,
+2006,HDD,Households,,,Dollars,Millions,Environmental Accounts,470,
+2007,HDD,Households,,,Dollars,Millions,Environmental Accounts,468,
+2008,HDD,Households,,,Dollars,Millions,Environmental Accounts,483,
+2009,HDD,Households,,,Dollars,Millions,Environmental Accounts,499,
+2010,HDD,Households,,,Dollars,Millions,Environmental Accounts,565,
+2011,HDD,Households,,,Dollars,Millions,Environmental Accounts,662,
+2012,HDD,Households,,,Dollars,Millions,Environmental Accounts,712,
+2013,HDD,Households,,,Dollars,Millions,Environmental Accounts,720,
+2014,HDD,Households,,,Dollars,Millions,Environmental Accounts,741,
+2015,HDD,Households,,,Dollars,Millions,Environmental Accounts,696,
+2016,HDD,Households,,,Dollars,Millions,Environmental Accounts,641,
+2017,HDD,Households,,,Dollars,Millions,Environmental Accounts,641,
+1999,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,
+2000,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,
+2001,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,4,
+2002,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,8,
+2003,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,9,R
+2004,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,12,
+2005,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,13,
+2006,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,R
+2007,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,
+2008,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,17,R
+2009,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,26,
+2010,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,23,R
+2011,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,30,R
+2012,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,54,R
+2013,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,14,R
+2014,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,21,R
+2015,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,17,R
+2016,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,15,R
+2017,AA1,Agriculture,,,Dollars,Millions,Environmental Accounts,15,R
+1999,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,6,R
+2000,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,7,R
+2001,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,7,R
+2002,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,11,R
+2003,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,12,R
+2004,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,16,R
+2005,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,17,R
+2006,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,18,R
+2007,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,18,R
+2008,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,10,R
+2009,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,6,R
+2010,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2011,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2012,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2013,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2014,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2015,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,1,R
+2016,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,2,R
+2017,AA2,Forestry and Logging,,,Dollars,Millions,Environmental Accounts,2,R
+1999,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,R
+2000,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,R
+2001,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,R
+2002,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,R
+2003,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,6,R
+2004,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,10,R
+2005,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,11,R
+2006,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,12,R
+2007,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,11,R
+2008,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,13,R
+2009,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,5,R
+2010,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,4,R
+2011,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,6,R
+2012,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,5,R
+2013,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,R
+2014,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,8,R
+2015,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,R
+2016,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,R
+2017,AA3,"Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services",,,Dollars,Millions,Environmental Accounts,9,R
+1999,BB1,Mining,,,Dollars,Millions,Environmental Accounts,86,R
+2000,BB1,Mining,,,Dollars,Millions,Environmental Accounts,93,R
+2001,BB1,Mining,,,Dollars,Millions,Environmental Accounts,99,R
+2002,BB1,Mining,,,Dollars,Millions,Environmental Accounts,99,R
+2003,BB1,Mining,,,Dollars,Millions,Environmental Accounts,95,R
+2004,BB1,Mining,,,Dollars,Millions,Environmental Accounts,66,R
+2005,BB1,Mining,,,Dollars,Millions,Environmental Accounts,71,R
+2006,BB1,Mining,,,Dollars,Millions,Environmental Accounts,71,R
+2007,BB1,Mining,,,Dollars,Millions,Environmental Accounts,62,R
+2008,BB1,Mining,,,Dollars,Millions,Environmental Accounts,49,R
+2009,BB1,Mining,,,Dollars,Millions,Environmental Accounts,56,R
+2010,BB1,Mining,,,Dollars,Millions,Environmental Accounts,33,R
+2011,BB1,Mining,,,Dollars,Millions,Environmental Accounts,57,R
+2012,BB1,Mining,,,Dollars,Millions,Environmental Accounts,35,R
+2013,BB1,Mining,,,Dollars,Millions,Environmental Accounts,52,R
+2014,BB1,Mining,,,Dollars,Millions,Environmental Accounts,52,R
+2015,BB1,Mining,,,Dollars,Millions,Environmental Accounts,60,R
+2016,BB1,Mining,,,Dollars,Millions,Environmental Accounts,51,R
+2017,BB1,Mining,,,Dollars,Millions,Environmental Accounts,58,R
+1999,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,47,R
+2000,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,49,R
+2001,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,51,R
+2002,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,60,R
+2003,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,62,R
+2004,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,72,R
+2005,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,77,R
+2006,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,80,R
+2007,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,83,R
+2008,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,85,R
+2009,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,86,R
+2010,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,89,R
+2011,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,102,R
+2012,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,103,R
+2013,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,102,R
+2014,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,120,R
+2015,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,129,R
+2016,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,123,R
+2017,CC1,"Food, Beverage and Tobacco Product Manufacturing",,,Dollars,Millions,Environmental Accounts,133,R
+1999,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2000,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2001,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2002,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2003,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2004,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,R
+2005,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,R
+2006,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,R
+2007,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,R
+2008,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2009,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2010,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2011,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,4,R
+2012,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2013,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+2014,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2015,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2016,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,2,R
+2017,CC2,"Textile, Leather, Clothing and Footwear Manufacturing",,,Dollars,Millions,Environmental Accounts,3,R
+1999,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2000,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2001,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2002,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,5,R
+2003,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,5,R
+2004,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,7,R
+2005,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,7,R
+2006,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,8,R
+2007,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,8,R
+2008,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,R
+2009,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,9,R
+2010,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,R
+2011,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,9,R
+2012,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,R
+2013,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,R
+2014,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,11,R
+2015,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,12,R
+2016,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,13,R
+2017,CC3,Wood and Paper Products Manufacturing,,,Dollars,Millions,Environmental Accounts,10,R
+1999,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,R
+2000,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,R
+2001,CC4,Printing,,,Dollars,Millions,Environmental Accounts,1,R
+2002,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2003,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2004,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2005,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2006,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2007,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2008,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2009,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2010,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2011,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2012,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2013,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2014,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2015,CC4,Printing,,,Dollars,Millions,Environmental Accounts,2,R
+2016,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+2017,CC4,Printing,,,Dollars,Millions,Environmental Accounts,3,R
+1999,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,798,R
+2000,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,751,R
+2001,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,748,R
+2002,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,777,R
+2003,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,942,R
+2004,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,986,R
+2005,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,886,R
+2006,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,932,R
+2007,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,871,R
+2008,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,832,R
+2009,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,877,R
+2010,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,824,R
+2011,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,873,R
+2012,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,918,R
+2013,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,922,R
+2014,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,900,R
+2015,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1026,R
+2016,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1227,R
+2017,CC5,"Petroleum, Chemical, Polymer and Rubber Product Manufacturing",,,Dollars,Millions,Environmental Accounts,1206,R
+1999,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,13,R
+2000,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,R
+2001,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,R
+2002,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,16,R
+2003,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,18,R
+2004,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,19,R
+2005,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,21,R
+2006,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,21,R
+2007,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,23,R
+2008,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,25,R
+2009,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,27,R
+2010,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,28,R
+2011,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,30,R
+2012,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,31,R
+2013,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,32,R
+2014,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,35,R
+2015,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,38,R
+2016,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,39,R
+2017,CC6,Non-Metallic Mineral Product Manufacturing,,,Dollars,Millions,Environmental Accounts,41,R
+1999,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,4,R
+2000,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,4,R
+2001,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,R
+2002,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,6,R
+2003,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,R
+2004,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,8,R
+2005,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,R
+2006,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,R
+2007,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,9,R
+2008,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,10,R
+2009,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,13,R
+2010,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,15,R
+2011,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,14,R
+2012,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,R
+2013,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,R
+2014,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,5,R
+2015,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,7,R
+2016,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,8,R
+2017,CC7,Metal Product Manufacturing,,,Dollars,Millions,Environmental Accounts,10,
+1999,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,R
+2000,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,R
+2001,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,R
+2002,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,R
+2003,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,R
+2004,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,12,R
+2005,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,R
+2006,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,R
+2007,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,13,R
+2008,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,12,R
+2009,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,7,R
+2010,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,R
+2011,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,11,R
+2012,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,8,R
+2013,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,R
+2014,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,10,R
+2015,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,R
+2016,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,11,R
+2017,CC8,"Transport Equipment, Machinery and Equipment Manufacturing",,,Dollars,Millions,Environmental Accounts,9,
+1999,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,
+2000,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,
+2001,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,
+2002,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,R
+2003,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,
+2004,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2005,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2006,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2007,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2008,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,6,R
+2009,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2010,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,4,R
+2011,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2012,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,3,R
+2013,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,R
+2014,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,R
+2015,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,R
+2016,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,1,
+2017,CC9,Furniture and Other Manufacturing,,,Dollars,Millions,Environmental Accounts,2,
+1999,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,16,R
+2000,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,17,R
+2001,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,17,R
+2002,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,25,R
+2003,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,29,R
+2004,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,37,
+2005,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,91,R
+2006,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,124,R
+2007,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,113,R
+2008,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,119,R
+2009,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,122,R
+2010,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,156,R
+2011,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,166,R
+2012,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,133,R
+2013,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,165,R
+2014,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,144,R
+2015,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,182,R
+2016,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,172,R
+2017,DD1,"Electricity, Gas, Water and Waste Services",,,Dollars,Millions,Environmental Accounts,181,
+1999,EE1,Construction,,,Dollars,Millions,Environmental Accounts,80,R
+2000,EE1,Construction,,,Dollars,Millions,Environmental Accounts,85,R
+2001,EE1,Construction,,,Dollars,Millions,Environmental Accounts,90,R
+2002,EE1,Construction,,,Dollars,Millions,Environmental Accounts,102,R
+2003,EE1,Construction,,,Dollars,Millions,Environmental Accounts,109,R
+2004,EE1,Construction,,,Dollars,Millions,Environmental Accounts,120,R
+2005,EE1,Construction,,,Dollars,Millions,Environmental Accounts,129,R
+2006,EE1,Construction,,,Dollars,Millions,Environmental Accounts,133,R
+2007,EE1,Construction,,,Dollars,Millions,Environmental Accounts,142,R
+2008,EE1,Construction,,,Dollars,Millions,Environmental Accounts,160,R
+2009,EE1,Construction,,,Dollars,Millions,Environmental Accounts,163,R
+2010,EE1,Construction,,,Dollars,Millions,Environmental Accounts,169,R
+2011,EE1,Construction,,,Dollars,Millions,Environmental Accounts,184,R
+2012,EE1,Construction,,,Dollars,Millions,Environmental Accounts,194,R
+2013,EE1,Construction,,,Dollars,Millions,Environmental Accounts,203,R
+2014,EE1,Construction,,,Dollars,Millions,Environmental Accounts,218,R
+2015,EE1,Construction,,,Dollars,Millions,Environmental Accounts,236,R
+2016,EE1,Construction,,,Dollars,Millions,Environmental Accounts,255,R
+2017,EE1,Construction,,,Dollars,Millions,Environmental Accounts,273,
+1999,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,31,R
+2000,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,33,R
+2001,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,34,R
+2002,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,43,R
+2003,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,46,R
+2004,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,53,R
+2005,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,57,R
+2006,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,59,R
+2007,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,60,R
+2008,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,66,R
+2009,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,73,R
+2010,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,75,R
+2011,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,93,R
+2012,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,102,R
+2013,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,93,R
+2014,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,94,R
+2015,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,102,R
+2016,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,108,R
+2017,FF1,Wholesale Trade,,,Dollars,Millions,Environmental Accounts,112,
+1999,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,19,R
+2000,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,19,R
+2001,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,20,R
+2002,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,33,R
+2003,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,35,R
+2004,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,47,R
+2005,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,50,R
+2006,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,52,R
+2007,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,52,R
+2008,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,56,R
+2009,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,45,R
+2010,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,62,R
+2011,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,54,R
+2012,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,54,R
+2013,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,67,R
+2014,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,67,R
+2015,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,71,R
+2016,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,63,R
+2017,GH1,Retail Trade,,,Dollars,Millions,Environmental Accounts,63,
+1999,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,R
+2000,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,R
+2001,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,10,R
+2002,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,19,R
+2003,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,20,R
+2004,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,27,R
+2005,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,29,R
+2006,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,R
+2007,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,R
+2008,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,R
+2009,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,26,R
+2010,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,29,R
+2011,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,30,R
+2012,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,15,R
+2013,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,17,
+2014,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,R
+2015,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,16,R
+2016,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,R
+2017,GH2,Accommodation and Food Services,,,Dollars,Millions,Environmental Accounts,18,
+1999,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,254,R
+2000,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,272,R
+2001,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,286,R
+2002,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,318,R
+2003,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,340,R
+2004,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,369,R
+2005,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,396,R
+2006,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,410,R
+2007,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,439,R
+2008,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,479,R
+2009,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,531,R
+2010,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,555,R
+2011,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,628,R
+2012,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,643,R
+2013,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,665,R
+2014,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,729,R
+2015,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,782,R
+2016,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,816,R
+2017,II1,"Transport, Postal and Warehousing",,,Dollars,Millions,Environmental Accounts,849,
+1999,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,R
+2000,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,R
+2001,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,3,R
+2002,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,5,R
+2003,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,6,R
+2004,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,7,R
+2005,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,R
+2006,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,R
+2007,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,8,R
+2008,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,11,R
+2009,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,R
+2010,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,7,R
+2011,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,6,R
+2012,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,R
+2013,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,9,R
+2014,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,12,R
+2015,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,12,R
+2016,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,10,R
+2017,JJ1,Information Media and Telecommunications,,,Dollars,Millions,Environmental Accounts,11,R
+1999,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,20,R
+2000,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,16,R
+2001,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,16,R
+2002,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,21,R
+2003,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,10,R
+2004,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,21,R
+2005,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,R
+2006,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,R
+2007,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,24,R
+2008,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,28,R
+2009,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,31,R
+2010,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,29,R
+2011,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,39,R
+2012,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,29,R
+2013,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,32,
+2014,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,28,R
+2015,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,26,R
+2016,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,23,R
+2017,KK1,Financial and Insurance Services,,,Dollars,Millions,Environmental Accounts,23,
+1999,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,46,R
+2000,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,45,R
+2001,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,45,R
+2002,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,77,R
+2003,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,78,R
+2004,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,111,R
+2005,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,119,R
+2006,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,124,R
+2007,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,126,R
+2008,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,138,R
+2009,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,143,R
+2010,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,160,R
+2011,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,160,R
+2012,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,206,R
+2013,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,191,R
+2014,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,217,R
+2015,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,158,R
+2016,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,133,R
+2017,LL1,"Rental, Hiring and Real Estate Services",,,Dollars,Millions,Environmental Accounts,134,
+1999,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2000,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2001,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2002,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2003,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2004,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2005,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2006,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2007,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2008,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2009,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2010,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2011,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2012,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2013,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2014,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2015,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2016,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+2017,LL2,Owner-occupied property operation (national accounts only),,,Dollars,Millions,Environmental Accounts,,
+1999,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,16,R
+2000,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,14,R
+2001,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,14,R
+2002,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,18,R
+2003,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,13,R
+2004,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,21,R
+2005,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,R
+2006,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,R
+2007,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,23,R
+2008,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,R
+2009,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,R
+2010,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,31,R
+2011,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,34,R
+2012,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,35,R
+2013,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,29,R
+2014,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,32,R
+2015,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,37,R
+2016,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,36,R
+2017,MN1,"Professional, Scientific and Technical Services",,,Dollars,Millions,Environmental Accounts,40,
+1999,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,4,R
+2000,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,4,R
+2001,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,5,R
+2002,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,6,R
+2003,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,6,R
+2004,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,R
+2005,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,R
+2006,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,R
+2007,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,8,R
+2008,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,13,R
+2009,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,24,R
+2010,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,R
+2011,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,12,R
+2012,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,R
+2013,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,13,R
+2014,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,R
+2015,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,14,R
+2016,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,16,R
+2017,MN2,Administrative and Support Services,,,Dollars,Millions,Environmental Accounts,21,
+1999,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2000,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2001,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2002,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2003,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2004,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2005,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2006,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2007,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2008,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2009,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2010,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2011,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2012,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,1,R
+2013,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2014,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2015,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2016,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+2017,OO1,Local Government Administration,,,Dollars,Millions,Environmental Accounts,0,
+1999,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,1,
+2000,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,1,
+2001,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2002,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2003,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2004,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2005,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2006,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2007,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2008,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2009,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2010,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2011,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,2,R
+2012,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,R
+2013,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,R
+2014,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,4,R
+2015,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,R
+2016,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,3,R
+2017,OO2,"Central Government Administration, Defence and Public Safety",,,Dollars,Millions,Environmental Accounts,5,
+1999,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,R
+2000,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,R
+2001,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,2,R
+2002,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,3,R
+2003,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,3,R
+2004,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,R
+2005,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,R
+2006,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,R
+2007,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,R
+2008,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,R
+2009,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,4,
+2010,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,R
+2011,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,R
+2012,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,7,R
+2013,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,5,
+2014,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,R
+2015,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,
+2016,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,
+2017,PP1,Education and Training,,,Dollars,Millions,Environmental Accounts,6,
+1999,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,R
+2000,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,R
+2001,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,6,R
+2002,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,11,R
+2003,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,12,R
+2004,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,16,R
+2005,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,17,R
+2006,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,R
+2007,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,R
+2008,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,18,R
+2009,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,17,R
+2010,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,23,R
+2011,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,19,R
+2012,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,22,R
+2013,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,25,R
+2014,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,31,R
+2015,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,31,R
+2016,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,33,R
+2017,QQ1,Health Care and Social Assistance,,,Dollars,Millions,Environmental Accounts,34,
+1999,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,R
+2000,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,R
+2001,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,9,R
+2002,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,17,R
+2003,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,19,R
+2004,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,26,R
+2005,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,28,R
+2006,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,29,R
+2007,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,29,R
+2008,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,34,R
+2009,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,62,R
+2010,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,87,R
+2011,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,114,R
+2012,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,101,R
+2013,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,113,R
+2014,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,115,R
+2015,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,117,R
+2016,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,94,R
+2017,RS1,Arts and Recreation Services,,,Dollars,Millions,Environmental Accounts,95,
+1999,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,R
+2000,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,R
+2001,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,5,R
+2002,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,8,R
+2003,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,8,R
+2004,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,R
+2005,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,R
+2006,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,11,R
+2007,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,R
+2008,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,14,R
+2009,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,R
+2010,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,R
+2011,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,15,R
+2012,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,R
+2013,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,R
+2014,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,R
+2015,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,9,R
+2016,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,R
+2017,RS2,Other Services,,,Dollars,Millions,Environmental Accounts,10,
+1999,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,10,R
+2000,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,10,R
+2001,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,R
+2002,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,R
+2003,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,11,R
+2004,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,7,R
+2005,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,264,R
+2006,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,421,R
+2007,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,539,R
+2008,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,555,R
+2009,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,520,R
+2010,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,616,R
+2011,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,608,R
+2012,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,612,R
+2013,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,641,R
+2014,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,768,R
+2015,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,697,R
+2016,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,699,R
+2017,UNA,Unallocated,,,Dollars,Millions,Environmental Accounts,773,R
+1999,,Total ,Total ,,Dollars,Millions,Environmental Accounts,1631,
+2000,,Total ,Total ,,Dollars,Millions,Environmental Accounts,1614,
+2001,,Total ,Total ,,Dollars,Millions,Environmental Accounts,1647,
+2002,,Total ,Total ,,Dollars,Millions,Environmental Accounts,2086,
+2003,,Total ,Total ,,Dollars,Millions,Environmental Accounts,2318,
+2004,,Total ,Total ,,Dollars,Millions,Environmental Accounts,2558,
+2005,,Total ,Total ,,Dollars,Millions,Environmental Accounts,2856,
+2006,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3139,
+2007,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3217,
+2008,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3322,R
+2009,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3445,R
+2010,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3645,R
+2011,,Total ,Total ,,Dollars,Millions,Environmental Accounts,3975,R
+2012,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4082,R
+2013,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4163,R
+2014,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4419,R
+2015,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4510,R
+2016,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4639,R
+2017,,Total ,Total ,,Dollars,Millions,Environmental Accounts,4792,
+1999,,,Energy,,Dollars,Millions,Environmental Accounts,856,
+2000,,,Energy,,Dollars,Millions,Environmental Accounts,811,
+2001,,,Energy,,Dollars,Millions,Environmental Accounts,804,
+2002,,,Energy,,Dollars,Millions,Environmental Accounts,836,
+2003,,,Energy,,Dollars,Millions,Environmental Accounts,997,
+2004,,,Energy,,Dollars,Millions,Environmental Accounts,1125,
+2005,,,Energy,,Dollars,Millions,Environmental Accounts,1353,
+2006,,,Energy,,Dollars,Millions,Environmental Accounts,1601,
+2007,,,Energy,,Dollars,Millions,Environmental Accounts,1651,
+2008,,,Energy,,Dollars,Millions,Environmental Accounts,1671,R
+2009,,,Energy,,Dollars,Millions,Environmental Accounts,1731,
+2010,,,Energy,,Dollars,Millions,Environmental Accounts,1800,R
+2011,,,Energy,,Dollars,Millions,Environmental Accounts,1884,R
+2012,,,Energy,,Dollars,Millions,Environmental Accounts,1889,R
+2013,,,Energy,,Dollars,Millions,Environmental Accounts,1932,R
+2014,,,Energy,,Dollars,Millions,Environmental Accounts,2037,R
+2015,,,Energy,,Dollars,Millions,Environmental Accounts,2089,R
+2016,,,Energy,,Dollars,Millions,Environmental Accounts,2234,R
+2017,,,Energy,,Dollars,Millions,Environmental Accounts,2285,
+1999,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2000,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2001,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2002,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2003,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2004,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2005,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2006,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2007,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2008,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2009,,,Pollution,,Dollars,Millions,Environmental Accounts,0,
+2010,,,Pollution,,Dollars,Millions,Environmental Accounts,18,
+2011,,,Pollution,,Dollars,Millions,Environmental Accounts,25,
+2012,,,Pollution,,Dollars,Millions,Environmental Accounts,25,
+2013,,,Pollution,,Dollars,Millions,Environmental Accounts,27,
+2014,,,Pollution,,Dollars,Millions,Environmental Accounts,25,
+2015,,,Pollution,,Dollars,Millions,Environmental Accounts,30,
+2016,,,Pollution,,Dollars,Millions,Environmental Accounts,33,
+2017,,,Pollution,,Dollars,Millions,Environmental Accounts,34,
+1999,,,Resources,,Dollars,Millions,Environmental Accounts,138,
+2000,,,Resources,,Dollars,Millions,Environmental Accounts,135,
+2001,,,Resources,,Dollars,Millions,Environmental Accounts,143,
+2002,,,Resources,,Dollars,Millions,Environmental Accounts,145,
+2003,,,Resources,,Dollars,Millions,Environmental Accounts,113,
+2004,,,Resources,,Dollars,Millions,Environmental Accounts,104,
+2005,,,Resources,,Dollars,Millions,Environmental Accounts,110,
+2006,,,Resources,,Dollars,Millions,Environmental Accounts,105,
+2007,,,Resources,,Dollars,Millions,Environmental Accounts,95,
+2008,,,Resources,,Dollars,Millions,Environmental Accounts,82,
+2009,,,Resources,,Dollars,Millions,Environmental Accounts,74,
+2010,,,Resources,,Dollars,Millions,Environmental Accounts,69,
+2011,,,Resources,,Dollars,Millions,Environmental Accounts,73,
+2012,,,Resources,,Dollars,Millions,Environmental Accounts,60,
+2013,,,Resources,,Dollars,Millions,Environmental Accounts,69,
+2014,,,Resources,,Dollars,Millions,Environmental Accounts,75,
+2015,,,Resources,,Dollars,Millions,Environmental Accounts,69,
+2016,,,Resources,,Dollars,Millions,Environmental Accounts,60,
+2017,,,Resources,,Dollars,Millions,Environmental Accounts,60,
+1999,,,Transport,,Dollars,Millions,Environmental Accounts,637,
+2000,,,Transport,,Dollars,Millions,Environmental Accounts,668,
+2001,,,Transport,,Dollars,Millions,Environmental Accounts,700,
+2002,,,Transport,,Dollars,Millions,Environmental Accounts,1105,
+2003,,,Transport,,Dollars,Millions,Environmental Accounts,1208,
+2004,,,Transport,,Dollars,Millions,Environmental Accounts,1329,
+2005,,,Transport,,Dollars,Millions,Environmental Accounts,1393,
+2006,,,Transport,,Dollars,Millions,Environmental Accounts,1433,
+2007,,,Transport,,Dollars,Millions,Environmental Accounts,1471,
+2008,,,Transport,,Dollars,Millions,Environmental Accounts,1568,
+2009,,,Transport,,Dollars,Millions,Environmental Accounts,1640,
+2010,,,Transport,,Dollars,Millions,Environmental Accounts,1758,
+2011,,,Transport,,Dollars,Millions,Environmental Accounts,1994,
+2012,,,Transport,,Dollars,Millions,Environmental Accounts,2108,
+2013,,,Transport,,Dollars,Millions,Environmental Accounts,2135,
+2014,,,Transport,,Dollars,Millions,Environmental Accounts,2282,R
+2015,,,Transport,,Dollars,Millions,Environmental Accounts,2322,R
+2016,,,Transport,,Dollars,Millions,Environmental Accounts,2313,R
+2017,,,Transport,,Dollars,Millions,Environmental Accounts,2413,
+1999,,,,Taxes on production,Dollars,Millions,National Accounts,6029,
+2000,,,,Taxes on production,Dollars,Millions,National Accounts,6259,
+2001,,,,Taxes on production,Dollars,Millions,National Accounts,6449,
+2002,,,,Taxes on production,Dollars,Millions,National Accounts,6690,
+2003,,,,Taxes on production,Dollars,Millions,National Accounts,7252,
+2004,,,,Taxes on production,Dollars,Millions,National Accounts,7642,
+2005,,,,Taxes on production,Dollars,Millions,National Accounts,8055,
+2006,,,,Taxes on production,Dollars,Millions,National Accounts,8545,
+2007,,,,Taxes on production,Dollars,Millions,National Accounts,8379,
+2008,,,,Taxes on production,Dollars,Millions,National Accounts,8589,
+2009,,,,Taxes on production,Dollars,Millions,National Accounts,9044,
+2010,,,,Taxes on production,Dollars,Millions,National Accounts,9249,
+2011,,,,Taxes on production,Dollars,Millions,National Accounts,9861,R
+2012,,,,Taxes on production,Dollars,Millions,National Accounts,10280,R
+2013,,,,Taxes on production,Dollars,Millions,National Accounts,10796,R
+2014,,,,Taxes on production,Dollars,Millions,National Accounts,11464,R
+2015,,,,Taxes on production,Dollars,Millions,National Accounts,12035,R
+2016,,,,Taxes on production,Dollars,Millions,National Accounts,12702,R
+2017,,,,Taxes on production,Dollars,Millions,National Accounts,13109,
+1999,,,,Income tax received,Dollars,Millions,National Accounts,19670,
+2000,,,,Income tax received,Dollars,Millions,National Accounts,20221,
+2001,,,,Income tax received,Dollars,Millions,National Accounts,22644,
+2002,,,,Income tax received,Dollars,Millions,National Accounts,23450,
+2003,,,,Income tax received,Dollars,Millions,National Accounts,25725,
+2004,,,,Income tax received,Dollars,Millions,National Accounts,28024,
+2005,,,,Income tax received,Dollars,Millions,National Accounts,30053,
+2006,,,,Income tax received,Dollars,Millions,National Accounts,33974,
+2007,,,,Income tax received,Dollars,Millions,National Accounts,36699,
+2008,,,,Income tax received,Dollars,Millions,National Accounts,39574,
+2009,,,,Income tax received,Dollars,Millions,National Accounts,38617,
+2010,,,,Income tax received,Dollars,Millions,National Accounts,33466,
+2011,,,,Income tax received,Dollars,Millions,National Accounts,33747,
+2012,,,,Income tax received,Dollars,Millions,National Accounts,33763,
+2013,,,,Income tax received,Dollars,Millions,National Accounts,36762,
+2014,,,,Income tax received,Dollars,Millions,National Accounts,39501,
+2015,,,,Income tax received,Dollars,Millions,National Accounts,41873,
+2016,,,,Income tax received,Dollars,Millions,National Accounts,42639,
+2017,,,,Income tax received,Dollars,Millions,National Accounts,47826,
+1999,,,,Other current taxes,Dollars,Millions,National Accounts,479,
+2000,,,,Other current taxes,Dollars,Millions,National Accounts,483,
+2001,,,,Other current taxes,Dollars,Millions,National Accounts,479,
+2002,,,,Other current taxes,Dollars,Millions,National Accounts,483,
+2003,,,,Other current taxes,Dollars,Millions,National Accounts,518,
+2004,,,,Other current taxes,Dollars,Millions,National Accounts,581,
+2005,,,,Other current taxes,Dollars,Millions,National Accounts,627,
+2006,,,,Other current taxes,Dollars,Millions,National Accounts,643,
+2007,,,,Other current taxes,Dollars,Millions,National Accounts,660,
+2008,,,,Other current taxes,Dollars,Millions,National Accounts,689,
+2009,,,,Other current taxes,Dollars,Millions,National Accounts,695,
+2010,,,,Other current taxes,Dollars,Millions,National Accounts,771,
+2011,,,,Other current taxes,Dollars,Millions,National Accounts,840,
+2012,,,,Other current taxes,Dollars,Millions,National Accounts,914,
+2013,,,,Other current taxes,Dollars,Millions,National Accounts,910,
+2014,,,,Other current taxes,Dollars,Millions,National Accounts,925,
+2015,,,,Other current taxes,Dollars,Millions,National Accounts,953,
+2016,,,,Other current taxes,Dollars,Millions,National Accounts,963,R
+2017,,,,Other current taxes,Dollars,Millions,National Accounts,859,
+1999,,,,GST on production,Dollars,Millions,National Accounts,6840,
+2000,,,,GST on production,Dollars,Millions,National Accounts,7312,
+2001,,,,GST on production,Dollars,Millions,National Accounts,7571,
+2002,,,,GST on production,Dollars,Millions,National Accounts,8097,
+2003,,,,GST on production,Dollars,Millions,National Accounts,8832,
+2004,,,,GST on production,Dollars,Millions,National Accounts,9551,
+2005,,,,GST on production,Dollars,Millions,National Accounts,10245,
+2006,,,,GST on production,Dollars,Millions,National Accounts,10788,
+2007,,,,GST on production,Dollars,Millions,National Accounts,11561,
+2008,,,,GST on production,Dollars,Millions,National Accounts,12229,
+2009,,,,GST on production,Dollars,Millions,National Accounts,12225,
+2010,,,,GST on production,Dollars,Millions,National Accounts,12372,
+2011,,,,GST on production,Dollars,Millions,National Accounts,13985,
+2012,,,,GST on production,Dollars,Millions,National Accounts,15944,
+2013,,,,GST on production,Dollars,Millions,National Accounts,16408,
+2014,,,,GST on production,Dollars,Millions,National Accounts,17117,
+2015,,,,GST on production,Dollars,Millions,National Accounts,17989,
+2016,,,,GST on production,Dollars,Millions,National Accounts,19194,
+2017,,,,GST on production,Dollars,Millions,National Accounts,20802,
+1999,,,,Import duties,Dollars,Millions,National Accounts,510,
+2000,,,,Import duties,Dollars,Millions,National Accounts,612,
+2001,,,,Import duties,Dollars,Millions,National Accounts,633,
+2002,,,,Import duties,Dollars,Millions,National Accounts,643,
+2003,,,,Import duties,Dollars,Millions,National Accounts,742,
+2004,,,,Import duties,Dollars,Millions,National Accounts,719,
+2005,,,,Import duties,Dollars,Millions,National Accounts,870,
+2006,,,,Import duties,Dollars,Millions,National Accounts,997,
+2007,,,,Import duties,Dollars,Millions,National Accounts,1668,
+2008,,,,Import duties,Dollars,Millions,National Accounts,1901,
+2009,,,,Import duties,Dollars,Millions,National Accounts,1850,
+2010,,,,Import duties,Dollars,Millions,National Accounts,1859,
+2011,,,,Import duties,Dollars,Millions,National Accounts,2008,
+2012,,,,Import duties,Dollars,Millions,National Accounts,1952,
+2013,,,,Import duties,Dollars,Millions,National Accounts,2074,
+2014,,,,Import duties,Dollars,Millions,National Accounts,2175,
+2015,,,,Import duties,Dollars,Millions,National Accounts,2280,
+2016,,,,Import duties,Dollars,Millions,National Accounts,2382,
+2017,,,,Import duties,Dollars,Millions,National Accounts,2650,
+1999,,,,Social security contributions,Dollars,Millions,National Accounts,1799,
+2000,,,,Social security contributions,Dollars,Millions,National Accounts,1445,
+2001,,,,Social security contributions,Dollars,Millions,National Accounts,1146,
+2002,,,,Social security contributions,Dollars,Millions,National Accounts,1292,
+2003,,,,Social security contributions,Dollars,Millions,National Accounts,1490,
+2004,,,,Social security contributions,Dollars,Millions,National Accounts,1469,
+2005,,,,Social security contributions,Dollars,Millions,National Accounts,1501,
+2006,,,,Social security contributions,Dollars,Millions,National Accounts,1608,
+2007,,,,Social security contributions,Dollars,Millions,National Accounts,1892,
+2008,,,,Social security contributions,Dollars,Millions,National Accounts,2133,
+2009,,,,Social security contributions,Dollars,Millions,National Accounts,2129,
+2010,,,,Social security contributions,Dollars,Millions,National Accounts,2387,
+2011,,,,Social security contributions,Dollars,Millions,National Accounts,2745,
+2012,,,,Social security contributions,Dollars,Millions,National Accounts,2757,
+2013,,,,Social security contributions,Dollars,Millions,National Accounts,2483,
+2014,,,,Social security contributions,Dollars,Millions,National Accounts,2617,
+2015,,,,Social security contributions,Dollars,Millions,National Accounts,2418,
+2016,,,,Social security contributions,Dollars,Millions,National Accounts,2063,
+2017,,,,Social security contributions,Dollars,Millions,National Accounts,2030,
+1999,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,35327,
+2000,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,36332,
+2001,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,38922,
+2002,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,40655,
+2003,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,44559,
+2004,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,47986,
+2005,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,51350,
+2006,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,56555,
+2007,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,60859,
+2008,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,65116,
+2009,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,64560,
+2010,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,60104,
+2011,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,63186,
+2012,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,65610,
+2013,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,69433,
+2014,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,73800,
+2015,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,77548,
+2016,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,79943,
+2017,,,,Total taxes and social security contributions,Dollars,Millions,National Accounts,87275,
